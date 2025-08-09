@@ -13,6 +13,6 @@ This is the Monochrome Theme for [Omarchy.org](https://omarchy.org), providing a
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```bash
-omarchy-theme-install https://github.com/Swarnim114/omarchy-monochrome-dark
+omarchy-theme-install https://github.com/Swarnim114/omarchy-monochrome-theme
 ```
 
